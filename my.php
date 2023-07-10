@@ -1,2 +1,3 @@
-test 2
-123
+{
+echo "Hello world";
+}
